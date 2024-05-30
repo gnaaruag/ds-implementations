@@ -5,8 +5,7 @@ import java.util.Arrays;
 /**
  * List class provides an implementation for storing heterogenus items.
  * Implements a python like list that stores every kind of object.
- * Provides methods to add, get, delete and update elements
- * Provides method to display the entire list
+ * Provides methods to add, get, delete and update elements, to display the entire list, to return size of list 
  */
 public class List {
 	private Object[] list;
