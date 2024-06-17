@@ -15,6 +15,10 @@ class Node<T> {
      * The next node in the linked list.
      */
     Node<T> next;
+
+    /**
+     * The previous node in the linked list.
+     */
     Node<T> prev;
 
     /**
